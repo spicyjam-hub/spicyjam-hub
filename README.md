@@ -3,7 +3,7 @@
 -  I’m currently learning engineering
 -  How to reach me avnivasanad@gmail.com
 -  Pronouns: she /her
--  Fun fact: I'm irregular sometimes 
+-  Fun fact: I'm crazy sometimes 
 
 <!---
 spicyjam-hub/spicyjam-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
