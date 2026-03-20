@@ -31,6 +31,7 @@
 - 🧁 **Frontend:** React, Tailwind, Figma
 - 🐣 **Backend:** Flask, Node.js
 - 🧃 **Tools:** Git, GitHub, Docker, Postman
+- 🥨 **ML:** keras, pandas, pytorch and more
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/1f/4f/e1/1f4fe1e16f12cb2337e1f9f55a1c37c2.gif" width="250" alt="pixel art tools">
